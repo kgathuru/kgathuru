@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kgathuru
+- 👀 I’m interested in learning!
+- 🌱 I’m currently learning tensorflow.
+- 💞️ I’m looking to collaborate on kenyan sign language projects
+- 📫 How to reach me? mstadi.com
